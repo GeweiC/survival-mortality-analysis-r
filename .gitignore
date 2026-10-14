@@ -3,6 +3,12 @@
 # Generated local outputs (review before publishing)
 /results/*.csv
 /figures/*.png
+# Curated visualisations included in public portfolio
+!/figures/heart_kaplan_meier_smoking.png
+!/figures/heart_schoenfeld_diagnostics.png
+!/figures/lung_cox_predicted_survival.png
+!/figures/pension_life_tables.png
+!/figures/pension_log_mortality_rates.png
 /figures/*.pdf
 # R / RStudio local state
 .Rhistory
