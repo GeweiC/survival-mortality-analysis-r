@@ -1,0 +1,16 @@
+# Raw / sensitive or rights-unclear data
+/data/*.csv
+# Generated local outputs (review before publishing)
+/results/*.csv
+/figures/*.png
+/figures/*.pdf
+# R / RStudio local state
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+.Rprofile
+# operating system files
+.DS_Store
+Thumbs.db
